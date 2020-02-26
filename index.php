@@ -59,6 +59,7 @@ http://www.templatemo.com/tm-514-magazee
   <div class="tm-flex-center p-5">
     <div class="tm-md-flex-center">
       <p class="mb-4">Waar anders dan in Italië kan zo’n prachtige racefiets zijn oorsprong vinden? Een Gios professional uit 1984, een frame dat overigens voor het eerst ook in andere kleuren leverbaar was dan Gios-blauw. Columbus SL buizen, korte wielbasis, en dus heerlijk nerveus rijden. Remmen doet niemand echt graag, maar als het dan moet, dan bij voorkeur met Campagnolo Deltaremmen, al liet de werking van die dingen eigenlijk wat te wensen over. Maar o, wat mooi, en dan zwijg ik nog over de Super Record derailleurs, Het Cinellistuur met gepantografeerde Cinelli stuurpen. Een klassiek voorbeeld van geweldig rijden en lekker kijken.</p>
+      <p style="text-align: center;">&#10225;</p>
     </div>
   </div>
 </div>
@@ -81,6 +82,7 @@ http://www.templatemo.com/tm-514-magazee
     <div class="tm-flex-center p-5">
       <div class="tm-flex-center tm-flex-col">
         <p>Ik heb wel een zwak voor Giants, omdat dit Taiwanese merk vooral in de jaren negentig vernieuwende technologie aan de man bracht tegen alleszins schappelijke prijzen. Deze Giant is één van de eerste modellen op de Nederlandse markt, een Speeder. Een instapmodel, maar het ding is netjes gemaakt en rijdt heel leuk. De fiets is ontdaan van vrijwel alle onderdelen die toch al amper nog bruikbaar waren, en ik heb het minimaal willen houden. Eén voorblad, één (voorrem), 8 speed, en toch ook geschikt voor het Limburgse heuvelland, al is die ene rem dan wel wat gewaagd. Eenvoudig maar ook uniek, en heel betaalbaar.</p>
+        <p style="text-align: center;">&#10225;</p>
       </div>
     </div>
   </div>
@@ -92,6 +94,7 @@ http://www.templatemo.com/tm-514-magazee
   <div class="tm-flex-center pl-5 pr-5 pt-5 pb-5">
     <div class="tm-md-flex-center">
      <p>Een Mercier Special Tour de France, een hele mond vol voor een fiets uit de tijd dat de Franse fabrikanten eigenlijk aan alle kanten werden voorbijgestreeft door de concurrentie, vooral die uit het Verre Oosten. Deze Mercier heeft een Vitus frame en rijdt heerlijk, maar de bouw is toch enigszins met de Franse slag gedaan. Dat geeft het ding ook weer charme. Omdat de framestickers sterk aan het vergaan waren, heb ik met behulp van vernis verder verval in elk geval vertraagd zonder de patina aan te tasten. Ik hou van kleurgebruik, getuige de oranje velgen, het marineblauwe stuurlint, en een Gipiemme zadel met borduursel. Een soort ratbike waar niemand een buil aan kan vallen.</p>
+     <p style="text-align: center;">&#10225;</p>
    </div>
  </div>
 </div>
