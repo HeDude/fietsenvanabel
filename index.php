@@ -48,7 +48,7 @@ http://www.templatemo.com/tm-514-magazee
   </div>
   <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
     <div class="tm-flex-center p-5">
-      <q class="tm-quote tm-text-color-gray"><img class="logo" src="img/logo_fietsenvanabel.png"><br/>Ut sit amet augue elit. Vivamus eget tortor in ante scelerisque gravida. Vestibulum auctor condimentum sem.</q>
+      <q class="tm-quote tm-text-color-gray"><img class="logo" src="img/logo_fietsenvanabel.png"><br/>Hier vind je oude racers die met veel passie, kennis van zaken en vakmanschap aan een tweede leven kunnen beginnen. Het zijn ook zonder uitzondering fietsen die een persoonlijke band verdienen, al was het maar omdat er van elk exemplaar mondiaal geen tweede te vinden zal zijn.</q>
     </div>
   </div>
 </section>
@@ -59,7 +59,7 @@ http://www.templatemo.com/tm-514-magazee
   <div class="tm-flex-center p-5">
     <div class="tm-md-flex-center">
       <h2 class="tm-text-color-primary mb-4">Fusce ac enim at justo</h2>
-      <p class="mb-4">Pellentesque sagittis feugiat massa, vitae blandit elit dictum in. Nam eleifend nunc dui, sed cusus justo molestie id. Vestibulum vel sagittis justo.</p>
+      <p class="mb-4">Waar anders dan in Italië kan zo’n prachtige racefiets zijn oorsprong vinden? Een Gios professional uit 1984, een frame dat overigens voor het eerst ook in andere kleuren leverbaar was dan Gios-blauw. Columbus SL buizen, korte wielbasis, en dus heerlijk nerveus rijden. Remmen doet niemand echt graag, maar als het dan moet, dan bij voorkeur met Campagnolo Deltaremmen, al liet de werking van die dingen eigenlijk wat te wensen over. Maar o, wat mooi, en dan zwijg ik nog over de Super Record derailleurs, Het Cinellistuur met gepantografeerde Cinelli stuurpen. Een klassiek voorbeeld van geweldig rijden en lekker kijken.</p>
       <a href="#" class="btn btn-primary float-lg-right tm-md-align-center">Read more</a>
     </div>
   </div>
@@ -68,7 +68,7 @@ http://www.templatemo.com/tm-514-magazee
   <div class="tm-flex-center p-5 tm-bg-color-primary">
     <div class="tm-max-w-400 tm-flex-center tm-flex-col">
       <img src="img/abel.jpeg" alt="Image" class="rounded-circle mb-4">
-      <p class="tm-text-color-white small tm-font-thin mb-0">Nullam eleifend, ipsum eu aliquet fermentum , odio urna dignissim ante, semper maximus libero nisl non nibh.</p>
+      <p class="tm-text-color-white small tm-font-thin mb-0">“Ik zie een racefiets niet alleen als een functioneel apparaat. Het is een tot in de kleinste details geëvolueerd ding dat ook nog heel mooi kan zijn. Eigenlijk bijna kunstzinnig, vooral de exemplaren met slanke stalen frames.”</p>
     </div>
   </div>
 </div>
@@ -83,7 +83,7 @@ http://www.templatemo.com/tm-514-magazee
     <div class="tm-flex-center p-5">
       <div class="tm-flex-center tm-flex-col">
         <h2 class="tm-align-left">Loerm ipsum dolor sit amet</h2>
-        <p>This is one-page HTML5 template that you can use for any purpose. Please tell your friends about <a href="https://www.facebook.com/templatemo" target="_parent">TemplateMo</a> website. Thank you.</p>
+        <p>Ik heb wel een zwak voor Giants, omdat dit Taiwanese merk vooral in de jaren negentig vernieuwende technologie aan de man bracht tegen alleszins schappelijke prijzen. Deze Giant is één van de eerste modellen op de Nederlandse markt, een Speeder. Een instapmodel, maar het ding is netjes gemaakt en rijdt heel leuk. De fiets is ontdaan van vrijwel alle onderdelen die toch al amper nog bruikbaar waren, en ik heb het minimaal willen houden. Eén voorblad, één (voorrem), 8 speed, en toch ook geschikt voor het Limburgse heuvelland, al is die ene rem dan wel wat gewaagd. Eenvoudig maar ook uniek, en heel betaalbaar.</p>
         <a href="#" class="btn btn-primary">Read More</a>
       </div>
     </div>
@@ -96,10 +96,7 @@ http://www.templatemo.com/tm-514-magazee
   <div class="tm-flex-center pl-5 pr-5 pt-5 pb-5">
     <div class="tm-md-flex-center">
      <h2 class="mb-4 tm-text-color-primary">Nullam auctor ornare finibus</h2>
-     <p>Cras eu dolor lorem. Cras justo mauris, rhoncus in mauris ac, pellentesque pulvinar metus. Suspendisse consectetur consequat diam, ac dignissim mauris gravida vitae. Vestibulum blandit vestibulum mi a viverra.</p>
-     <p class="mb-4">Fusce porta lectus vel elit condimentum porttitor. Maecenas at quam congue, sollicitudin risus quis, ultricies enim. Vivamus sodales, tellus ac quismod dignissim, metus ligula porttitor enim.</p>
-     <p class="mb-4">Sed fermentum odio mollis libero iaculis ultrices. Mauris et nibh mi. Nullam vel sapien dolor. Vestibulum ipsum quam, aliquet ac pharetra in, suscipit eu risus. Etiam rutrum eros ultrices, consectetur felis ultrices, vehicula purus.</p>
-     <a href="#" class="btn btn-primary float-lg-right tm-md-align-center">Read More</a>
+     <p>Een Mercier Special Tour de France, een hele mond vol voor een fiets uit de tijd dat de Franse fabrikanten eigenlijk aan alle kanten werden voorbijgestreeft door de concurrentie, vooral die uit het Verre Oosten. Deze Mercier heeft een Vitus frame en rijdt heerlijk, maar de bouw is toch enigszins met de Franse slag gedaan. Dat geeft het ding ook weer charme. Omdat de framestickers sterk aan het vergaan waren, heb ik met behulp van vernis verder verval in elk geval vertraagd zonder de patina aan te tasten. Ik hou van kleurgebruik, getuige de oranje velgen, het marineblauwe stuurlint, en een Gipiemme zadel met borduursel. Een soort ratbike waar niemand een buil aan kan vallen.</p>
    </div>
  </div>
 </div>
