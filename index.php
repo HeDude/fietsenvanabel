@@ -109,8 +109,8 @@ http://www.templatemo.com/tm-514-magazee
   <div class="tm-flex-center">
    <div class="tm-pricing-table">
     <div class="tm-bg-color-secondary tm-text-color-white text-center tm-font-thin tm-pricing-header">
-      <p class="mb-0 tm-pricing-header-title">Standard Plan</p>
-      <p class="mb-0 tm-pricing-header-subtitle">($25 per month)</p>
+      <p class="mb-0 tm-pricing-header-title">Huur</p>
+      <p class="mb-0 tm-pricing-header-subtitle">(€25 per maand)</p>
     </div>
     <div class="tm-pricing-body">
       <ul class="tm-feature-list">
@@ -121,7 +121,7 @@ http://www.templatemo.com/tm-514-magazee
         <li>Condimentum sem</li>
         <li>Suscipit arcu accumsan</li>
       </ul>
-      <a href="#" class="btn btn-secondary">Buy now</a>
+      <a href="mailto:abel@bijbrengen.nl" class="btn btn-secondary">Huur</a>
     </div>
   </div>
 </div>
@@ -130,8 +130,8 @@ http://www.templatemo.com/tm-514-magazee
   <div class="tm-flex-center">
    <div class="tm-pricing-table">
     <div class="tm-bg-color-secondary tm-text-color-white text-center tm-font-thin tm-pricing-header">
-      <p class="mb-0 tm-pricing-header-title">Advanced Plan</p>
-      <p class="mb-0 tm-pricing-header-subtitle">($40 per month)</p>
+      <p class="mb-0 tm-pricing-header-title">Koop</p>
+      <p class="mb-0 tm-pricing-header-subtitle">(in overleg)</p>
     </div>
     <div class="tm-pricing-body">
       <ul class="tm-feature-list">
@@ -142,97 +142,17 @@ http://www.templatemo.com/tm-514-magazee
         <li>Pharetra et sapien</li>
         <li>Quisque auctor non magna</li>
       </ul>
-      <a href="#" class="btn btn-secondary">Buy now</a>
+      <a href="mailto:abel@bijbrengen.nl" class="btn btn-secondary">Koop</a>
     </div>
   </div>
 </div>
 </div>
-</section>
-
-<!-- 6th Section -->
-<section class="row">
-  <div class="col-lg-12 tm-form-header pl-5 pr-5">
-    <h2 class="tm-container-inner tm-text-color-white">Application Form</h2>
-  </div>
-  <div class="col-lg-12 pl-2 pl-sm-3 pl-md-5 pr-2 pr-sm-3 pr-md-5">
-    <form action="index.html" method="post" class="row tm-container-inner tm-contact-form">
-      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-        <div class="form-group">
-          <input type="text" id="contact_name" name="contact_name" class="form-control" placeholder="Full Name"  required/>
-        </div>
-        <div class="form-group">
-          <input type="email" id="contact_email" name="contact_email" class="form-control" placeholder="Your Email"  required/>
-        </div>
-        <div class="form-group">
-          <select>
-            <option value="">Position</option>
-            <option value="ceo">Chief Executive Officer</option>
-            <option value="ms">Marketing Specialist</option>
-            <option value="om">Operating Manager</option>
-            <option value="sa">Sales Assistant</option>
-          </select>
-        </div>
-        <div class="form-group">
-          <select>
-            <option value="">Salary</option>
-            <option value="100k">$100,000-$140,000</option>
-            <option value="200k">$200,000-$260,000</option>
-            <option value="300k">$300,000-$375,000</option>
-          </select>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-        <div class="form-group">
-          <div class="row">
-            <div class="col-lg-6">
-              <label>
-                <input type="radio" name="gender" value="m" required> Male
-              </label>
-            </div>
-            <div class="col-lg-6">
-              <label>
-                <input type="radio" name="gender" value="f" required> Female
-              </label>
-            </div>
-          </div>
-        </div>
-        <div class="form-group">
-          <textarea id="contact_message" name="contact_message" class="form-control" rows="6" placeholder="Additional Message" required></textarea>
-        </div>
-      </div>
-      <div class="col-xs-12 mt-4 tm-center">
-        <button type="submit" class="btn btn-primary">Submit</button>
-      </div>
-    </form>
-  </div>
-  <div class="col-lg-12 tm-bg-color-gray tm-text-color-white tm-font-thin tm-form-footer">
-    <div class="row tm-container-inner">
-      <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
-        <div class="tm-footer-info-box">
-          <h4>Lorem ipsum dolor</h4>
-          <address>
-            1010 Vivamaus viverra<br>
-            Leo vel porttitor sodales<br>
-            Non eleifend 10980
-          </address>
-        </div>
-      </div>
-      <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
-        <div class="tm-footer-info-box">
-          <p>Maecenas fermentum<br>
-          Nam eu justo et urna<br>
-          Semper maximus libero<br>
-          Etiam magna quam</p>
-        </div>
-      </div>
-    </div>
-  </div>
 </section>
 
 <!-- Footer -->
 <div class="row">
   <div class="col-lg-12">
-    <p class="text-center small tm-copyright-text mb-0">Copyright &copy; <span class="tm-current-year">2020</span> Abel Borghuis | Designed by Template Mo</p>
+    <p class="text-center small tm-copyright-text mb-0">Copyright &copy; <span class="tm-current-year">2020</span> Abel Borghuis | <a href="mailto:abel@bijbrengen.nl" target="blank">abel@bijbrengen.nl</a></p>
   </div>
 </div>
 </div>
