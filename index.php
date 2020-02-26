@@ -128,7 +128,7 @@ if(navigator.userAgent.indexOf('MSIE')!==-1
     <!-- Footer -->
     <div class="row">
         <div class="col-lg-12">
-            <p class="text-center small tm-copyright-text mb-0">Copyright &copy; <span class="tm-current-year">2020</span> Abel Borghuis | <a href="mailto:abel@bijbrengen.nl" target="blank">abel@bijbrengen.nl</a> | <a href="https://casaborg.jimdosite.com" target="blank">blog</a></p>
+            <p class="text-center small tm-copyright-text mb-0">Copyright &copy; <span class="tm-current-year">2020</span> Abel Borghuis | <a href="mailto:abel@bijbrengen.nl" target="blank">abel@bijbrengen.nl</a></p>
         </div>
     </div>
     <!-- load JS -->
