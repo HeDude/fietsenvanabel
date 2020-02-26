@@ -48,7 +48,7 @@ if(navigator.userAgent.indexOf('MSIE')!==-1
             </div>
             <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
                 <div class="tm-flex-center p-5">
-                    <q class="tm-quote tm-text-color-gray"><img class="logo" alt="logo" src="img/logo_fietsenvanabel.png"><br/>Hier vind je oude racers die met veel passie, kennis van zaken en vakmanschap aan een tweede leven kunnen beginnen. Het zijn ook zonder uitzondering fietsen die een persoonlijke band verdienen, al was het maar omdat er van elk exemplaar mondiaal geen tweede te vinden zal zijn.</q>
+                    <p class="tm-quote tm-text-color-gray"><img class="logo" alt="logo" src="img/logo_fietsenvanabel.png"><br/>Hier vind je oude racers die met veel passie, kennis van zaken en vakmanschap aan een tweede leven kunnen beginnen. Het zijn ook zonder uitzondering fietsen die een persoonlijke band verdienen, al was het maar omdat er van elk exemplaar mondiaal geen tweede te vinden zal zijn.</p>
                 </div>
             </div>
         </section>
